@@ -1,0 +1,6 @@
+export function w $main() {
+@start
+	call $printf(l $fmt, ..., w 42)
+	ret 0
+}
+data $fmt = { b "compiler output: %d\n", b 0 }

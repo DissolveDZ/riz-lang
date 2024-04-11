@@ -1,0 +1,14 @@
+// comment
+
+/*
+tja > i32(Str->str) [
+    riz str'
+]
+
+main > i32() [
+    word "what" is i32
+    riz tja(&word)'
+]
+*/
+
+result 1234567890'
